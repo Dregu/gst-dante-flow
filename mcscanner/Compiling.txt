@@ -1,0 +1,6 @@
+To get the pcap libraries: sudo apt-get install libpcap-dev
+
+To Compile:
+  Use codeblocks to load project file.
+Or:
+  g++ main.cpp mcWindow.cpp mcSniff.cpp -o mcscanner `pkg-config gtkmm-3.0 --cflags --libs` -lpcap
