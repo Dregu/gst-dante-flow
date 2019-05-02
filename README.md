@@ -1,6 +1,6 @@
 # gst-dante-flow
 
-Listen to an Audinate Dante stereo multicast flow with gstreamer. Tested with Dante Via.
+Listen to an Audinate Dante stereo multicast flow with gstreamer. Tested with Dante Via and Yamaha QL1.
 
 ## Install
 
